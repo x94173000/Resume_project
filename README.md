@@ -4,6 +4,7 @@
 With machine learning, we can predict the survival status of passengers on board the Titanic using various features.
 
 ## Wine Quality Prediction
+Predict whether a wine is of good or bad quality based on factors such as chemical composition and other relevant attributes. 
 
 ## Simulating the Monty Hall Game Show in Python
 The Monty Hall Problem is a famous probability puzzle based on a game show scenario.
